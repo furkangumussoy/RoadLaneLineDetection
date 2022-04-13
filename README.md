@@ -1,4 +1,4 @@
-# RoadLaneLineDetection
+# Road Lane Line Detection
 
 
 Built and Trained a model to identify road lanes using real-life driving data. Model built with deep learning-based approach and uses a convolutional neural network to predict the lanes on the road.
